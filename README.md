@@ -80,3 +80,5 @@ i don't wanna get proof of this because im lazy but you can test it yourself.
 ## ldr showing weird modules & weird ntdll.dll (purple = low image coherency)
 ![image](https://github.com/user-attachments/assets/dd31f459-da26-4bcc-b7f1-ea98fa8714b6)
 
+# output of the example app 
+![image](https://github.com/user-attachments/assets/72a7ffb5-72a6-41a5-97d7-b7782ea99705)
