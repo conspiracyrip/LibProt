@@ -1,8 +1,6 @@
 # LibProt
 small, 1 header library for protection against dumping tools &amp; pe header, iat, imports/exports protection
 
-# Lightweight (single header), zero external dependencies (except <Windows.h>).
-
 # what does this do?
 manipulate the pe headers & other fun data dumpers use, along with mess with the peb & ldr
 
